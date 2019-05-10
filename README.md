@@ -30,21 +30,21 @@ This program supports:
 
 ### 2. Input Parameters
 
-	1: Scene File	<XXX.scene>	(required)
-	2: Output Image Name	<XXX.jpg>	(optional, but previous parameter need to exist)
-	3: Antialiasing	<Y/y>	(optional, but previous parameter need to exist)
-	4: Soft Shadow	<Y/y>	(optional, but previous parameter need to exist)
-	5: Recusrsive Reflection (Sphere) 	<Y/y>	(optional, but previous parameter need to exist)
-	6: Animation Output	<Y/y>	(optional, but previous parameter need to exist)
-	7: Motion Blur Output 	<Y/y>	(optional, but previous parameter need to exist)
+	1: Scene File		<XXX.scene>	(required)
+	2: Output Image Name		<XXX.jpg>	(optional, but previous parameter need to exist)
+	3: Antialiasing		<Y/y>	(optional, but previous parameter need to exist)
+	4: Soft Shadow		<Y/y>	(optional, but previous parameter need to exist)
+	5: Recusrsive Reflection (Sphere)	<Y/y>	(optional, but previous parameter need to exist)
+	6: Animation Output		<Y/y>	(optional, but previous parameter need to exist)
+	7: Motion Blur Output	<Y/y>	(optional, but previous parameter need to exist)
 
 
 	Example Inputs
-	./hw3 test2.scene 			 	  		(No Extra Features)
-	./hw3 test2.scene output.jpg 	  		(Output Image)
-	./hw3 test2.scene output.jpg y  		(Antialising)
-	./hw3 test2.scene output.jpg y y 		(Antialising and Soft Shadow)
-	./hw3 test2.scene output.jpg y n y		(Antialising and Recursive Reflection)
+	./hw3 test2.scene                       (No Extra Features)
+	./hw3 test2.scene output.jpg            (Output Image)
+	./hw3 test2.scene output.jpg y          (Antialising)
+	./hw3 test2.scene output.jpg y y        (Antialising and Soft Shadow)
+	./hw3 test2.scene output.jpg y n y	    (Antialising and Recursive Reflection)
 	./hw3 test2.scene output.jpg n y n y	(Soft Shadow and Animation)
 	./hw3 test2.scene output.jpg y y n n y	(Antialising, Soft Shadow and Motion Blur)
 
