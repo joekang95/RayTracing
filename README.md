@@ -32,11 +32,11 @@ This program supports:
 
 	1: Scene File				<XXX.scene>	(required)
 	2: Output Image Name			<XXX.jpg>	(optional, but previous parameter need to exist)
-	3: Antialiasing				<Y/y>	(optional, but previous parameter need to exist)
-	4: Soft Shadow				<Y/y>	(optional, but previous parameter need to exist)
-	5: Recusrsive Reflection (Sphere)	<Y/y>	(optional, but previous parameter need to exist)
-	6: Animation Output			<Y/y>	(optional, but previous parameter need to exist)
-	7: Motion Blur Output			<Y/y>	(optional, but previous parameter need to exist)
+	3: Antialiasing				<Y/y>		(optional, but previous parameter need to exist)
+	4: Soft Shadow				<Y/y>		(optional, but previous parameter need to exist)
+	5: Recusrsive Reflection (Sphere)	<Y/y>		(optional, but previous parameter need to exist)
+	6: Animation Output			<Y/y>		(optional, but previous parameter need to exist)
+	7: Motion Blur Output			<Y/y>		(optional, but previous parameter need to exist)
 
 
 	Example Inputs
